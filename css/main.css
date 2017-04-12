@@ -5,6 +5,7 @@ body{
 
 section:nth-child(1), section:nth-child(3), section:nth-child(5), section:nth-child(7){
   background-image: url("../img/back.png");
+  background-size: 100%;
 }
 section:nth-child(2), section:nth-child(4), section:nth-child(6){
   background-image: url("../img/back2.jpg");
